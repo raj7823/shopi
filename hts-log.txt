@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Oct 2026 18:23:32 at https://lehengabazaar.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lehengabazaar.co.in/ -O1 "C:\Users\DEEPAK\Downloads\hot women\lehnga site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:26:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.shopify.com:443/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js (from https://lehengabazaar.co.in/)
+18:26:10	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/POST (from https://lehengabazaar.co.in/)
+18:26:10	Error: 	"Error when decompressing" (-1) at link https://lehengabazaar.co.in/cdn (from https://lehengabazaar.co.in/)
+18:40:41	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/pages/ (from https://lehengabazaar.co.in/)
+18:43:45	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.shopify.com:443/extensions/01a0cd11-b913-7e7d-8b62-2b63ab1be515/air-reviews-1-110/assets/air-reviews.min.css (from https://lehengabazaar.co.in/)
+18:43:45	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.shopify.com:443/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js (from https://lehengabazaar.co.in/)
+18:44:07	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/collections/POST (from https://lehengabazaar.co.in/collections/all)
+18:54:27	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/account/POST (from https://lehengabazaar.co.in/account/login)
+19:53:59	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/pages/POST (from https://lehengabazaar.co.in/pages/international-orders)
+19:54:33	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/products/POST (from https://lehengabazaar.co.in/products/maayeri-rose-pink-gharana-set-1)
+19:54:49	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/blogs/POST (from https://lehengabazaar.co.in/blogs/news)
+19:54:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.shopify.com:443/extensions/01a0cd11-b913-7e7d-8b62-2b63ab1be515/air-reviews-1-110/assets/air-reviews.min.css (from https://lehengabazaar.co.in/)
+19:54:57	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://cdn.shopify.com:443/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js (from https://lehengabazaar.co.in/)
+20:46:22	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/checkouts/cn/hWNHXnrsHJjIVRJH37KKRe9E/window.location (from https://lehengabazaar.co.in/checkouts/cn/hWNHXnrsHJjIVRJH37KKRe9E/en-in?_r=AQABngeii-V7CAsYUxLViUIVX1YdiGb-ptrnK2kqWVV32xve5i6b&cart_link_id=ret3PP9z&ucp%2Fversion=2026-08-25)
+20:46:32	Error: 	"Not Found" (404) at link https://lehengabazaar.co.in/blogs/news/POST (from https://lehengabazaar.co.in/blogs/news/welcome-to-our-store-🎉)
+20:46:32	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://cdn.shopify.com:443/extensions/01a0cd11-b913-7e7d-8b62-2b63ab1be515/air-reviews-1-110/assets/air-reviews.min.css (from https://lehengabazaar.co.in/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 49 minutes 11 seconds : 8270 links scanned, 8253 files written (2137821420 bytes overall) [1589004530 bytes received at 156536 bytes/sec], 715576198 bytes transferred using HTTP compression in 1923 files, ratio 20%, 26.1 requests per connection
+(12 errors, 4 warnings, 0 messages)
